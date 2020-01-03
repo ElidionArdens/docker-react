@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-          Hi from ScnSoft!
+          Docker deployment test
 	</h1>
 	<p>
 	  Made by Uladzimir Dalshou
